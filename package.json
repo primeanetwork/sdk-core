@@ -47,5 +47,10 @@
   "bugs": {
     "url": "https://github.com/primeanetwork/sdk-core/issues"
   },
-  "homepage": "https://github.com/primeanetwork/sdk-core#readme"
+  "homepage": "https://github.com/primeanetwork/sdk-core#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "primea-alpha"
+  }
 }
